@@ -1,1 +1,1 @@
-# C-snake
+Snake Project
