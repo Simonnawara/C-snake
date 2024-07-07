@@ -11,7 +11,7 @@ This project consists of a classic Snake game implemented in C. The objective of
 - <b>Score Tracking</b>  <br>
 
 <h2>How to play the game :</h2>
-- <b>Use the Z, Q, S, D keys to move the snake up, left, down, and right respectively.</b>  <br>
+- <b>Use the ↑, ↓, ←, → keys to move the snake up, down, left and right respectively.</b>  <br>
 - <b>Eat the fruit (represented by F) to grow longer.</b>  <br>
 - <b>Avoid colliding with the walls or the snake's own body.</b>  <br>
 - <b>Press X to exit the game.</b>  <br>
